@@ -21,7 +21,7 @@ const Layout = () => {
             </Link>
         </nav>
       </div>
-      <div className='md:w-4/6 md:h-screen'>
+      <div className='md:w-4/6 md:h-screen overflow-scroll'>
         <Outlet />
       </div>
     </div>
