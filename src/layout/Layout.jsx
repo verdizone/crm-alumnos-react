@@ -5,7 +5,7 @@ const Layout = () => {
   return (
     <div className='md:flex'>
       <div className='md:w-2/6 md:h-screen bg-blue-800'>
-        <h1 className='text-white text-4xl font-bold text-center mt-10'>CRM - Alumnos</h1>
+        <h1 className='text-white text-4xl font-bold text-center pt-10'>CRM - Alumnos</h1>
         <nav>
             <Link
                 className='text-white block w-full text-2xl px-3 hover:text-blue-300 mt-10' 

@@ -1,0 +1,49 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Jeroham Pablo Miranda Miranda",
+      "matricula": "5649+8749",
+      "graGru": "S3B",
+      "colegio": "Tecnoalbatros",
+      "fechaNac": "1981-05-26",
+      "imgAlu": "C:\\fakepath\\images.jpeg",
+      "id": 1
+    },
+    {
+      "nombre": "Lula",
+      "matricula": "456",
+      "graGru": "K3A",
+      "colegio": "Albatros",
+      "fechaNac": "2022-03-11",
+      "imgAlu": "C:\\fakepath\\681c886f512869534e77ceb578a13c30.jpg",
+      "id": 2
+    },
+    {
+      "nombre": "dfg",
+      "matricula": "345",
+      "graGru": "K3B",
+      "colegio": "Tecnoalbatros",
+      "fechaNac": "2022-03-18",
+      "imgAlu": "C:\\fakepath\\681c886f512869534e77ceb578a13c30.jpg",
+      "id": 3
+    },
+    {
+      "nombre": "Rara",
+      "matricula": "1232",
+      "graGru": "P1A",
+      "colegio": "Tecnoalbatros",
+      "fechaNac": "2022-03-12",
+      "imgAlu": "C:\\fakepath\\681c886f512869534e77ceb578a13c30.jpg",
+      "id": 4
+    },
+    {
+      "nombre": "Rarito",
+      "matricula": "4564",
+      "graGru": "S1B",
+      "colegio": "Albatros",
+      "fechaNac": "2022-12-29",
+      "imgAlu": "C:\\fakepath\\Coca_Cola.blend",
+      "id": 5
+    }
+  ]
+}
